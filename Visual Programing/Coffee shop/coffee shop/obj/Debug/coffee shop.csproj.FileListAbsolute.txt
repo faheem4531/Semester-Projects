@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\coffee shop\coffee shop\bin\Debug\coffee shop.exe.config
+C:\Users\PC\Desktop\coffee shop\coffee shop\bin\Debug\coffee shop.exe
+C:\Users\PC\Desktop\coffee shop\coffee shop\bin\Debug\coffee shop.pdb
+C:\Users\PC\Desktop\coffee shop\coffee shop\obj\Debug\coffee shop.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\coffee shop\coffee shop\obj\Debug\coffee_shop.splashscreen.resources
+C:\Users\PC\Desktop\coffee shop\coffee shop\obj\Debug\coffee_shop.Properties.Resources.resources
+C:\Users\PC\Desktop\coffee shop\coffee shop\obj\Debug\coffee shop.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\coffee shop\coffee shop\obj\Debug\coffee shop.exe
+C:\Users\PC\Desktop\coffee shop\coffee shop\obj\Debug\coffee shop.pdb
+C:\Users\PC\Desktop\coffee shop\coffee shop\obj\Debug\coffee_shop.login.resources
+C:\Users\PC\Desktop\coffee shop\coffee shop\obj\Debug\coffee_shop.registerationform.resources
+C:\Users\PC\Desktop\coffee shop\coffee shop\obj\Debug\coffee_shop.Dashboard.resources
+C:\Users\PC\Desktop\coffee shop\coffee shop\obj\Debug\coffee_shop.load.resources
+C:\Users\PC\Desktop\coffee shop\coffee shop\obj\Debug\coffee_shop.crystalreport.resources
