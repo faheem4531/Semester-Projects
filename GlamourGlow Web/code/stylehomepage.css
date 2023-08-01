@@ -1,0 +1,82 @@
+body{
+    /* background-image: url(background.avif); */
+    background-image: url(background.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    border: none;
+    /* font-family: 'Roboto', sans-serif; */
+    /* font-family: 'Abril Fatface', cursive; */
+    font-family: 'Rock Salt', cursive;
+
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    padding-top: 10%;
+}
+
+.heading h1{
+    font-size: 130px;
+    text-align: center;
+    color: ivory;
+}
+
+.heading h4{
+    font-size: 40px;
+    text-align: center;
+    color: ivory;
+}
+
+.login{
+    position: relative;
+    left: 0px;
+    margin-top: 50px;
+}
+
+.login_btn{
+    color: palevioletred;
+    border-radius: 2px;
+    border: 15px solid white;
+    background: white;
+    height: 30px;
+    letter-spacing: 1px;
+    padding: 6px 40px;
+    font-weight: bold;
+    margin: opx 20px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 20px;
+}
+.login:hover{
+    transform: scale(1.1);
+}
+
+.signup{
+    position: relative;
+    left: 0px;
+    margin-top: 80px;
+    
+}
+
+.signup_btn{
+    color: palevioletred;
+    border-radius: 2px;
+    border: 15px solid white;
+    background: white;
+    height: 30px;
+    letter-spacing: 1px;
+    padding: 6px 35px;
+    font-weight: bold;
+    margin: opx 20px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 20px;
+}
+.signup:hover{
+    transform: scale(1.1);
+}
