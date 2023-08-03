@@ -1,0 +1,54 @@
+.heading{
+    text-align: center;
+    font-size: 35px;
+    background-color: palevioletred;
+    height: 50px;
+}
+
+table{
+    text-align: center;
+    margin-left: 20%;
+    width: 60%;
+}
+
+ table thead th{
+    padding:10px;
+    font-size: 25px;
+    color:black;
+    background-color: palevioletred;
+ }
+
+ table tr td{
+    border-bottom: border;
+    padding:10px;
+    font-size: 20px;
+    color:black;
+ }
+
+ table input[type="number"]{
+    border: border;
+    padding: 0px;
+    font-size: 15px;
+    color:black;
+    width: 50px;
+ }
+
+ table input[type="submit"]{
+    padding:0px;
+    cursor: pointer;
+    font-size: 15px;
+    color:black;
+ }
+
+ table input[type="submit"]:hover{
+    background-color: orange;
+ }
+
+ table .table-bottom{
+    padding: 10px;
+    font-size: 25px;
+    color:black;
+    background-color: rgb(200, 196, 196);
+   
+  }
+  
